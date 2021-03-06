@@ -1,10 +1,10 @@
 # Skripsi
-Template Skripsi LaTex,  <span>Dulunya Program Studi Ilmu Komputer (sekarang sudah jadi Sistem Informasi) </span>, Fakultas MIPA, Universitas Hasanuddin Makassar
+Template Skripsi LaTex, Masih Program Studi Ilmu Komputer [Sistem Informasi](http://cs.sci.unhas.ac.id/), Fakultas MIPA, Universitas Hasanuddin Makassar
 
 
 ### Universitas Hasanuddin
 <p align="center">
-    <img alt="Logo Unhas" src="https://raw.githubusercontent.com/dirsulaiman/Skripsi/master/images/logoUH-tumbnail.png" width="170px">
+    <img alt="Logo Unhas" src="https://raw.githubusercontent.com/mubarakabaz/Skripsi/master/images/logoUH-tumbnail.png" width="170px">
 </p>
 
 
