@@ -1,5 +1,5 @@
 # Skripsi
-Template Skripsi LaTex, Dulunya Program Studi Ilmu Komputer (sekarang sudah jadi Sistem Informasi), Fakultas MIPA, Universitas Hasanuddin Makassar
+Template Skripsi LaTex,  <span>Dulunya Program Studi Ilmu Komputer (sekarang sudah jadi Sistem Informasi) </span>, Fakultas MIPA, Universitas Hasanuddin Makassar
 
 
 ### Universitas Hasanuddin
